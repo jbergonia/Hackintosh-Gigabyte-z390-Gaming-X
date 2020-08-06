@@ -9,7 +9,7 @@ Download the latest Clover package and copy the contents of  `Clover` folder of 
 
 ## OpenCore
 
-Copy the `EFI` folder inside `OpenCore` folder to your `EFI` partition. Download latest OpenCore package and extract the following to the said partition as follows:
+Copy the `EFI` folder inside `OpenCore` folder to your `EFI` partition. Download the latest OpenCore package and extract the following to the said partition as follows:
 
 - `EFI/BOOT/BOOTx64.efi`
 - `EFI/OC/OpenCore.efi`
