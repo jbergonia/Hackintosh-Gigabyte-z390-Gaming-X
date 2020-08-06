@@ -1,7 +1,7 @@
 # Hackintosh-Gigabyte-z390-Gaming-X
 Custom Hackintosh EFI Build for Gigabyte z390 Gaming X Motherboard
 
-*Currently compatible with macOS Catalina*
+*This configuration is currently compatible with macOS Catalina.*
 
 ## Clover
 
@@ -18,4 +18,4 @@ Copy the `EFI` folder inside `OpenCore` folder to your `EFI` partition. Download
 - `EFI/OC/Drivers/OpenRuntime.efi`
 - `EFI/OC/Tools/OpenShell.efi`
 
-*Note: Backup your current EFI bootloader before using this one.*
+*Note: USE AT YOUR OWN RISK. Backup your current EFI bootloader before using this one.*
